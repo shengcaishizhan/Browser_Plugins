@@ -1,2 +1,3 @@
 # Browser_Plugins
-网页浏览器插件，Chrome、Edge、Firefox、Sidekick...
+
+* 广告屏蔽插件：[Global Speed: 视频速度控制](https://chrome.google.com/webstore/detail/empty-title/jpbjcnkcffbooppibceonlgknpkniiff?hl=zh-CN)
